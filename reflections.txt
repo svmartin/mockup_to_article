@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* Skills
+I've learned that having a browser window open with a gif file is distracting! ;-)
+I've also learned that it's not so easy to find the "right" semantic tags to use.
+
+* It's been easy to do the basics.
+
+* It's been difficult to go beyond the basics.
+
+* Strategies
+Yes, I have. Stackoverflow, baby!
+
+Also, note to self: when your changes don't seem to take effect, make sure you are editing the element/elements
+you "think" you are editing! (face palm)
